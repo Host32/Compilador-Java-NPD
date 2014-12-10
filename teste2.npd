@@ -1,0 +1,4 @@
+inicio
+    A:=1; --Este é um teste com comentario
+    escreva(A);
+fim

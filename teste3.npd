@@ -1,0 +1,7 @@
+inicio
+    leia( A, B, C ); --comentario1
+    D := A; -- comi1920391023)!(3901-9(@)(#
+    E := B - C + B;
+    F := B + C;
+    escreva( D, E, F, 2+2-2-2, 4+5+6 ); --so pra ter certeza :)
+fim

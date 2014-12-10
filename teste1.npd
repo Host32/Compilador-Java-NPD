@@ -1,0 +1,5 @@
+inicio
+    leia(A);
+    B:= A;
+    escreva(B+2);
+fim
